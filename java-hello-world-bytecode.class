@@ -1,4 +1,4 @@
-// Bytecode instructions (hexadecimal representation)
+//Bytecode instructions in hexadecimal for the Java 'Hello World' file.
 ca fe ba be 00 00 00 34 00 14 0a 00 03 00 10 07
 00 11 07 00 12 01 00 10 48 65 6c 6c 6f 2c 20 57
 6f 72 6c 64 21 07 00 13 0c 00 04 00 05 01 00 0f
